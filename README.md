@@ -14,7 +14,7 @@ method(if number is not a month number e.g. 13 => print: "wrong number!" ):
 #### 2. Aliquot numbers.
 
 Implement the program that will consume 2 numbers as method arguments and will print if the first
-number is Aliquot(prints:"Aliquot" is yes otherwise "Not aliquot") to the other:
+number is Aliquot(prints:"" is yes otherwise "Not aliquot") to the other:
 
     public class AliquotNumbers {
         public void isFirstAliquot(int first, int second) {
